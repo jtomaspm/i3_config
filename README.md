@@ -7,3 +7,5 @@
 # cp /somepath/i3_config/fonts/* ~/.fonts/
 
 # for the wallpaper you just need to save the desired image to "/Pictures" as "wallpaper.jpg" 
+
+# copy ".toggletouchpad.sh" to "/Documents"
